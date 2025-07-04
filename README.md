@@ -1,10 +1,10 @@
-# 🧪 Virtualization Project – Ubuntu Deployment with Pigeon Game
+# 🧪 Virtualization Project – Ubuntu Deployment with Penguin Game
 
 ## 🎯 Overview
 
 This was a group-based school project focused on **virtualization**. Our objective was to create a fully functional **virtual machine**, install an operating system of our choice, and deploy an application within that environment.
 
-We chose to install **Ubuntu OS** and deployed a simple **pigeon shooting game** as our application. This project allowed us to understand the fundamentals of virtual machines, OS installation, and collaborative tech workflows.
+We chose to install **Ubuntu OS** and deployed a simple **penguin shooting game** as our application. This project allowed us to understand the fundamentals of virtual machines, OS installation, and collaborative tech workflows.
 
 ---
 
@@ -13,7 +13,7 @@ We chose to install **Ubuntu OS** and deployed a simple **pigeon shooting game**
 - Installed **VMware** on our host systems  
 - Set up a **virtual environment** and installed **Ubuntu Linux**  
 - Installed essential packages and configured system settings  
-- Deployed a **pigeon game application** inside the virtual machine  
+- Deployed a **penguin game application(SupreTux)** inside the virtual machine  
 - Performed a group presentation and demo of the working setup  
 - Answered technical and user-based questions from the lecturer and class
 
@@ -35,9 +35,13 @@ Throughout the process:
 - Ubuntu OS  
 - Bash / Linux terminal  
 - Basic Linux package management (APT)  
-- Pigeon game installation and config
+- Penguin game (SuperTux)installation and config
 
 ---
+## 📸 Screenshots
+
+![Ubuntu VirtualBox Screenshot](game.png)
+
 
 
 ## 🚀 Outcome
